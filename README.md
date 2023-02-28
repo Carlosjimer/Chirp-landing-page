@@ -1,6 +1,6 @@
 ## Descripción
 
-Landing page creada con HTML y CSS. El proyecto es de la página CodeWell. Es un proyecto responsive, añadiendo, en la resolución destinada a tablets, un keyframes para dar movimiento a la página.
+Landing page creada con HTML y CSS. El proyecto es de la página CodeWell. Es responsive, añadiendo, en la resolución destinada a tablets, un keyframes para dar movimiento a la página.
 
 ## Autor
 **Carlos Jiménez**
