@@ -339,6 +339,7 @@ a{
 }
 .footer{
 	background-color: #B0E3F7;
+	margin-top: 3em;
 }
 .footer__a{
 	line-height: 3em;
